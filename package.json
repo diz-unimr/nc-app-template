@@ -43,7 +43,7 @@
     "@nextcloud/eslint-config": "^8.3.0",
     "@nextcloud/stylelint-config": "^2.1.2",
     "@nextcloud/webpack-vue-config": "^5.5.1",
-    "@vue/tsconfig": "^0.5.1",
+    "@vue/tsconfig": "^0.7.0",
     "eslint": "^8.56.0",
     "vue-tsc": "^2.0.17",
     "webpack": "^5.65.0",
